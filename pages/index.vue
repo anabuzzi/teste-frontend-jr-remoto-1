@@ -99,7 +99,7 @@ export default {
       .get('https://jsonplaceholder.typicode.com/users')
       .then(res => {        
         this.leads = res.data;
-      })
+              })
       
   }
 };
