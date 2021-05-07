@@ -34,8 +34,8 @@ export default {
      */
     darkBackground: {
       type: Boolean,
-      default: false,
-    },
-  },
-}
+      default: false
+    }
+  }
+};
 </script>

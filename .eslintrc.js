@@ -14,6 +14,12 @@ module.exports = {
     'plugin:prettier/recommended',
     'plugin:nuxt/recommended',
   ],
+  
   plugins: ['prettier'],
-  rules: {},
+  rules: {"prettier/prettier": [
+    "error",
+    {
+      "endOfLine": "auto"
+    },
+  ],},
 }
