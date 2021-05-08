@@ -16,16 +16,14 @@ A lista de contatos é consumida via API REST e foram desenvolvidos dois filtros
 
 🚀 Ferramentas utilizadas
 
- - Utilize apenas [CSS/SCSS](https://sass-guidelin.es/) desenvolvido por você.
- - Utilize HTML semântico.
- - Se preocupe com a UX e UI do projeto elas serão levadas em consideração na avaliação.
- - Utilize Git com boas mensagens de commit.
- - Se atente nas [boas práticas do Vue.js](https://vuejs.org/v2/style-guide/).
- - Para desenvolver utilize o comando `npm run dev` (Se preferir utilize o Yarn).
+ - [CSS/SCSS](https://sass-guidelin.es/);
+ - HTML semântico;
+ - UX e UI;
+ - Git com boas mensagens de commit;
+ - [boas práticas do Vue.js](https://vuejs.org/v2/style-guide/);
+ - Comando `npm run dev` para rodar o projeto após instalar nuxt e node-modules.
 
 
-Para rodar o projeto é necessário instalar o nodemodules e nuxt. 
-Após esse processo é possível rodar utilizando o comando: npm run dev
 
 📃Vue
 80.8%
@@ -39,4 +37,8 @@ Após esse processo é possível rodar utilizando o comando: npm run dev
 <br>
 <br>
 <br>
+
+
+
+
 ©️ Copyright Feito com ❤️ por Ana Buzzi 👋🏽 
