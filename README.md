@@ -23,6 +23,10 @@ A lista de contatos é consumida via API REST e foram desenvolvidos dois filtros
  - Se atente nas [boas práticas do Vue.js](https://vuejs.org/v2/style-guide/).
  - Para desenvolver utilize o comando `npm run dev` (Se preferir utilize o Yarn).
 
+
+Para rodar o projeto é necessário instalar o nodemodules e nuxt. 
+Após esse processo é possível rodar utilizando o comando: npm run dev
+
 📃Vue
 80.8%
 <br> 
